@@ -1,7 +1,3 @@
-## This repo is no longer maintained
-
-Due to a lack of motivation and time, I've decided to archive most of my repos. At the time of writing this, it's still fully functional.
-
 I hate what Discordopole has become. I love the idea but the work has been super messy. Here's a short hisotry:
 - I liked Worldopole but it was super outdated and no one would've used it anyway since all my users prefer using Discord over dedicated websites
 - So I started to convert some of Worldopole features to Discord (master branch)
@@ -25,7 +21,7 @@ Discordopole takes what [Worldopole](https://github.com/brusselopole/Worldopole)
 - Written with language support in mind. Supports **English**, **German**, **French**, **Spanish** and **Polish**
 
 ### Links
-- [**Wiki**](https://github.com/ccev/Discordopole/wiki) - Getting started, detailed feature overview and more.
+- [**Wiki**](https://github.com/pjotter/Discordopole/wiki) - Getting started, detailed feature overview and more.
 - [**Discord**](https://discord.gg/cnT8Dmz) - Support, announcements and planned features.
 
 ### Features
